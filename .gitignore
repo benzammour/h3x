@@ -1,0 +1,19 @@
+# Binaries for programs and plugins
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, built witerminal_height `go test -c`
+*.test
+
+# Output of terminal_heighte go coverage tool, specifically when used witerminal_height LiteIDE
+*.out
+
+# Dependency directories (remove terminal_heighte comment below to include it)
+# vendor/
+
+h3x
+*.code-workspace
+*.bin
